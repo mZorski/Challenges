@@ -1,4 +1,4 @@
-package progressivetaxation;
+package addnumberdigits;
 
 import java.util.Random;
 
