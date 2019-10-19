@@ -1,4 +1,4 @@
-package upccheckdigits;
+package _370_upccheckdigits;
 
 /**
  * [2018-12-17] Challenge #370 [Easy] UPC check digits

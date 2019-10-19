@@ -1,4 +1,4 @@
-package nqueensvalidator;
+package _371_nqueensvalidator;
 
 import java.util.Arrays;
 

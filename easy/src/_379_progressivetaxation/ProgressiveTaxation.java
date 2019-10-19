@@ -1,4 +1,4 @@
-package progressivetaxation;
+package _379_progressivetaxation;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package addonetoeachdigit;
+package _375_addonetoeachdigit;
 
 /**
  * [2019-02-11] Challenge #375 [Easy] Print a new number by adding one to each of its digit

@@ -1,4 +1,4 @@
-package perfectlybalanced;
+package _372_perfectlybalanced;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package additivepersistence;
+package _374_additivepersistence;
 
 /**
  * [2019-01-28] Challenge #374 [Easy] Additive Persistence
