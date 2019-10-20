@@ -90,7 +90,7 @@ public class ProgressiveTaxation {
 
     private static List<double[]> readTaxBrackets() {
         List<double[]> taxBrackets = new ArrayList<>();
-        try(BufferedReader reader = new BufferedReader(new FileReader("files/easy/taxBrackets.txt"))) {
+        try(BufferedReader reader = new BufferedReader(new FileReader("files/easy/379_taxBrackets.txt"))) {
             String line;
             double lowerBracket = 0;
             double upperBracket;
